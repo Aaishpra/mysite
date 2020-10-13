@@ -1,3 +1,5 @@
+
+
 This is just a project made for learning Django
 
 ![image](https://user-images.githubusercontent.com/66299533/95672357-c4002380-0bbd-11eb-873d-5894059215ff.png)
