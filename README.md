@@ -1,4 +1,13 @@
 
+# mysite
+Just an App for Learning Django.Made from Django documentation.
+
+
+
+
+![image](https://user-images.githubusercontent.com/66299533/94665750-2b021a80-032a-11eb-8af8-a785a0d31d59.png)
+=======
+
 
 This is just a project made for learning Django
 
@@ -32,3 +41,4 @@ Quick start
    to create a poll (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
+
